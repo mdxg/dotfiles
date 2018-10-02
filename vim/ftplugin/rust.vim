@@ -1,1 +1,5 @@
-set colorscheme 0
+colorscheme sublimemonokai
+
+set tabstop=4
+set shiftwidth=4
+set expandtab

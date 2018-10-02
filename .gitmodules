@@ -1,0 +1,3 @@
+[submodule "shell_themes/geometry"]
+	path = shell_themes/geometry
+	url = https://github.com/geometry-zsh/geometry
